@@ -1,9 +1,9 @@
 {
   "name": "InstantApply",
   "version": "0.0.2",
-  "description": "Help applicants find and apply to jobs.",
+  "description": "Automate your job applications!",
   "category": "agent",
-  "tags": [],
+  "tags": ["job", "application", "resume", "cover letter"],
   "details": {
     "agent": {
       "defaults": {
