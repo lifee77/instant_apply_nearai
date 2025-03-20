@@ -1,6 +1,6 @@
 {
   "name": "InstantApply",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Automate your job applications!",
   "category": "agent",
   "tags": [
@@ -21,8 +21,8 @@
         "model_max_tokens": 16384
       },
       "welcome": {
-        "title": "InstantApply, Your Job Application Wizard! 🚀",
-        "description": "Hey there! I’m InstantApply, here to make your job hunt a breeze. I can store your resume, tailor it for your dream job, answer application questions, and track your progress. Try saying: 'store my resume', 'tailor my resume for a software engineer role', 'answer these application questions', or 'track my application for Job ID 123'. What can I help you with today?"
+        "title": "InstantApply, Your Job Application Wizard! \ud83d\ude80",
+        "description": "Hey there! I\u2019m InstantApply, here to make your job hunt a breeze. I can store your resume, tailor it for your dream job, answer application questions, and track your progress. Try saying: 'store my resume', 'tailor my resume for a software engineer role', 'answer these application questions', or 'track my application for Job ID 123'. What can I help you with today?"
       }
     },
     "display_name": "InstantApply",
