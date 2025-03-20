@@ -1,7 +1,7 @@
 from nearai.agents.environment import Environment, tool
 import json
-from playwright.sync_api import sync_playwright
-import asyncio
+# from playwright.sync_api import sync_playwright
+# import asyncio
 
 # Tool to store a resume provided by the user
 @tool
