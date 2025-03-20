@@ -1,13 +1,16 @@
 {
   "name": "InstantApply",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Automate your job applications!",
   "category": "agent",
   "tags": [
     "job",
     "application",
     "resume",
-    "cover letter"
+    "cover letter",
+    "job application",
+    "job search",
+    "recruitment"
   ],
   "details": {
     "agent": {
@@ -16,8 +19,21 @@
         "model_provider": "fireworks",
         "model_temperature": 1.0,
         "model_max_tokens": 16384
+      },
+      "welcome": {
+        "title": "InstantApply, Your Job Application Wizard! 🚀",
+        "description": "Hey there! I’m InstantApply, here to make your job hunt a breeze. I can store your resume, tailor it for your dream job, answer application questions, and track your progress. Try saying: 'store my resume', 'tailor my resume for a software engineer role', 'answer these application questions', or 'track my application for Job ID 123'. What can I help you with today?"
       }
-    }
+    },
+    "display_name": "InstantApply",
+    "capabilities": [
+      {
+        "$schema": "https://aitp.dev/v1/requests.schema.json"
+      },
+      {
+        "$schema": "https://aitp.dev/v1/data.schema.json"
+      }
+    ]
   },
   "show_entry": true
 }
