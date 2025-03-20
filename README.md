@@ -1,7 +1,5 @@
 # InstantApply - Automate Your Job Applications! 🚀
 
-![InstantApply Banner](https://via.placeholder.com/1200x300.png?text=InstantApply+-+Your+Job+Application+Wizard)
-
 **InstantApply** is an AI-powered agent built on the [NearAI platform](https://app.near.ai/) to help you streamline your job application process. It automates tasks like storing your resume, tailoring it for specific job postings, generating responses to application questions, and tracking your applications. Whether you're applying for a software engineering role or a project management position, InstantApply provides professional guidance and feedback to boost your application materials.
 
 Try it out now: [InstantApply on NearAI](https://app.near.ai/agents/kindyak1075.near/InstantApply/latest)
